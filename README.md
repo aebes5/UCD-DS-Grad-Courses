@@ -8,30 +8,26 @@ This repository contains coursework, notes, and assignments from various graduat
 
 ## 📘 Contents
 
-| Course                            | Description                                | Term        |
-|----------------------------------|--------------------------------------------|-------------|
-| [Abstract Math](./Abstract-Math) | Proofs, set theory, logic                   | Fall 2023   |
-| [Algorithms](./Algorithms)       | Algorithm design, complexity, pseudocode   | Spring 2023 |
-| [Data Science](./Data-Science)   | Pandas, ML, EDA, modeling                  | Fall 2024   |
-| [Machine Learning (grad)](./Machine-Learning-grad) | Grad-level ML theory, scikit-learn | Fall 2024   |
-| [Real Analysis](./Real-Analysis) | Limits, continuity, convergence            | Fall 2024   |
-| [Large Language Modeling](./Large-Language-Modeling) | Notes on LLMs, Transformers         | Spring 2025 |
-
-_(...continue for others...)_
+| Course                                 | Description                                                      | Term      |
+|---------------------------------------|------------------------------------------------------------------|-----------|
+| [Applied Analysis](./Applied-Analysis) | Real analysis in metric/topological spaces, rigorous calculus proofs | Spring 2025 |
+| [Big Data Science](./Big-Data-Science) | Distributed computing, Hadoop/Spark, data pipelines, large-scale data processing | Fall 2025 |
+| [Machine Learning](./Machine-Learning) | Supervised/unsupervised learning, model evaluation, scikit-learn | Spring 2025 |
+| [Math Clinic](./Math-Clinic)          | Team-based project solving real-world client problems using mathematical modeling | Spring 2025 |
+| [Numerical Analysis](./Numerical-Analysis) | Computational methods for solving equations, differentiation, and integration | Summer 2024 |
 
 ---
 
 ## 🗂 Structure
 
 Each course folder may contain:
-- `README.md`: Overview or syllabus
-- `notes/`: Handwritten or typed lecture notes
-- `assignments/`: Homeworks and solutions
-- `projects/`: Larger coding projects, if any
+- `Notes/`: Handwritten or typed lecture notes
+- `Homework/`: Homeworks and solutions
+- `Lab/`: Lab
+- `Project/`: Larger coding projects, if any
 
 ---
 
 ## 📌 Disclaimer
 
 Some files may be incomplete or outdated.
-# UCD-DS-Grad-Courses
